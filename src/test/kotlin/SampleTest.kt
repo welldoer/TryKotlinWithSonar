@@ -4,6 +4,6 @@ import kotlin.test.assertTrue
 class SampleTest {
     @Test
     fun sample() {
-        assertTrue(true)
+        assertTrue(!false)
     }
 }
